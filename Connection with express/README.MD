@@ -1,5 +1,6 @@
 #### ***Project structure:***
 
+---
 project/
 ├── config/
 │   └── db.js
@@ -14,6 +15,7 @@ project/
 ├── server.js
 └── package.json
 
+---
 
 
 
