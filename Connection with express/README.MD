@@ -1,5 +1,3 @@
----
-
 ## ✅ **Folder Structure**
 ```
 project/
