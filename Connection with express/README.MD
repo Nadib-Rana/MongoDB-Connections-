@@ -1,6 +1,7 @@
 #### ***Project structure:***
 
 ---
+.lua
 project/
 ├── config/
 │   └── db.js
