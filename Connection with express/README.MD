@@ -1,5 +1,3 @@
-#### ***Project structure:***
-
 ---
 
 ## ✅ **Folder Structure**
