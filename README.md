@@ -143,8 +143,24 @@ npm start
 
 ---
 
-## 🧪 Bonus: Want to Insert 10 Sample Users Automatically?
 
-Let me know — I can give you a `/addUsers` route or a `.js` script that seeds your DB!
 
-Ready to test it now?
+## 🧪 Bonus: Add 10 Sample Users data
+
+### 📁 Insile the MongoDB collection (users)
+
+  { name: "Alice", email: "alice@example.com", age: 25 },
+  { name: "Bob", email: "bob@example.com", age: 30 },
+  { name: "Charlie", email: "charlie@example.com", age: 22 },
+  { name: "David", email: "david@example.com", age: 27 },
+  { name: "Emma", email: "emma@example.com", age: 31 },
+  { name: "Frank", email: "frank@example.com", age: 26 },
+  { name: "Grace", email: "grace@example.com", age: 29 },
+  { name: "Hannah", email: "hannah@example.com", age: 24 },
+  { name: "Ivan", email: "ivan@example.com", age: 28 },
+  { name: "Jane", email: "jane@example.com", age: 23 },
+];
+
+
+
+
