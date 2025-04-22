@@ -1,3 +1,40 @@
+## 📁 Final File Structure (for  "fruit" project)
+
+```
+fruit-app/
+│
+├── fruit-backend/              # Backend folder (Node.js + Express)
+│   ├── models/                 # Mongoose models
+│   │   └── users.js
+│   ├── index.js                # Main server file
+│   ├── seed.js                 # Optional: seed database with sample data
+│   └── package.json            # Backend dependencies
+│
+├── fruit-frontend/             # Frontend folder (React.js)
+│   ├── public/
+│   ├── src/
+│   │   ├── App.js              # Main React component
+│   │   ├── index.js            # Entry point
+│   │   └── components/         # (Optional) for splitting up UI into components
+│   └── package.json            # Frontend dependencies
+│
+├── .gitignore
+└── README.md
+```
+
+
+
+### ✅ Run the Seeder
+```bash
+node seed.js
+```
+
+This will insert 10 fake users into your `fruit.user` collection.
+
+---
+
+Want me to help structure it for **multiple collections** too? Or deploy it later?
+
 ### ✅ Final Backend Files
 
 ---
