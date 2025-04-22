@@ -23,18 +23,6 @@ fruit-app/
 ```
 
 
-
-### ✅ Run the Seeder
-```bash
-node seed.js
-```
-
-This will insert 10 fake users into your `fruit.user` collection.
-
----
-
-Want me to help structure it for **multiple collections** too? Or deploy it later?
-
 ### ✅ Final Backend Files
 
 ---
