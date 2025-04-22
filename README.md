@@ -161,6 +161,9 @@ npm start
   { name: "Jane", email: "jane@example.com", age: 23 },
 ];
 
+## Output Img:
+
+![image](https://github.com/user-attachments/assets/452060b2-a058-4af8-850c-cef616409ba7)
 
 
 
