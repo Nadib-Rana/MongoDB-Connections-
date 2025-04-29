@@ -129,7 +129,7 @@ export default App;
 mongod
 ```
 
-2. **Run Backend**
+2. **Run Backend** ...
 ```bash
 cd fruit-backend
 node index.js
@@ -142,7 +142,6 @@ npm start
 ```
 
 ---
-
 
 
 ## 🧪 Bonus: Add 10 Sample Users data
